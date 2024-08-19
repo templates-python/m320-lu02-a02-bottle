@@ -1,0 +1,50 @@
+[
+  {
+    "name": "test_color",
+    "function": "test_color",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_capacity",
+    "function": "test_capacity",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_initial_quantity",
+    "function": "test_initial_quantity",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_fill_bottle",
+    "function": "test_fill_bottle",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_get_liquid_available",
+    "function": "test_get_liquid_available",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_get_liquid_not_available",
+    "function": "test_get_liquid_not_available",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_get_liquid_partial_available",
+    "function": "test_get_liquid_partial_available",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_open_and_close_bottle",
+    "function": "test_open_and_close_bottle",
+    "timeout": 10,
+    "points": 1
+  }
+]
