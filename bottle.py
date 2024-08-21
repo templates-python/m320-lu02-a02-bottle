@@ -67,7 +67,7 @@ class Bottle:
         """
         self._quantity_available = self._capacity
 
-    def get_liquid(self, amount):
+    def drink_water(self, amount):
         """
         Returns the specified amount of liquid if available.
         Otherwise, returns the available quantity.
