@@ -24,20 +24,20 @@
     "points": 1
   },
   {
-    "name": "test_get_liquid_available",
-    "function": "test_get_liquid_available",
+    "name": "test_drink_water_available",
+    "function": "test_drink_water_available",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "test_get_liquid_not_available",
-    "function": "test_get_liquid_not_available",
+    "name": "test_drink_water_not_available",
+    "function": "test_drink_water_not_available",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "test_get_liquid_partial_available",
-    "function": "test_get_liquid_partial_available",
+    "name": "test_drink_water_partial_available",
+    "function": "test_drink_water_partial_available",
     "timeout": 10,
     "points": 1
   },
