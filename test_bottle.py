@@ -42,5 +42,5 @@ class TestBottle:
     def test_open_and_close_bottle(self, bottle):
         bottle.open_bottle()
         assert True  # Add appropriate assertions
-        bottle.close_the_bottle()
+        bottle.close_bottle()
         assert True  # Add appropriate assertions
