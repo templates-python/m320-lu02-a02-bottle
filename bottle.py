@@ -55,7 +55,7 @@ class Bottle:
         """
         return
 
-    def close_the_bottle(self):
+    def close_bottle(self):
         """
         Empty method.
         """
